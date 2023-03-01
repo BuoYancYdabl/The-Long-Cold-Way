@@ -5,3 +5,5 @@ After some time (around 2 weeks after this readme) I probably will make trailer,
 
 Game built with TIC-80 Pro 1.0
 You wont see any code here, this game isnt have readable open source code! This GitHub page is just for leaving your suggestion and, if you find any, bugs!
+
+**The development is currently suspended. Wait for the future updates**
